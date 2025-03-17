@@ -25,7 +25,7 @@ streamlit run app.py
 
 
 
-Future Enhancements
+## Future Enhancements
 
 IoT integration for real-time monitoring
 
@@ -34,7 +34,7 @@ Explainable AI for better transparency
 Cloud deployment
 
 
-License
+## License
 
 MIT License
 
