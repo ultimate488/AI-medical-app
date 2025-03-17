@@ -13,7 +13,7 @@ An AI-based system for predicting **Parkinson’s, thyroid disorders, lung cance
 
 git clone - https://github.com/ultimate488/AI-medical-app.git    
    
-   cd ai-medical-diagnosis
+   cd AI-medical-app
 
 3. Install dependencies:
 
